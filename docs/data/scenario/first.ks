@@ -41,44 +41,45 @@
 ある日僕は思いついてしまった。[l][r]
 [link target=*tag_magasashita] →この能力を使えばあんなことに使えるぞ！ [endlink][r]
 [link target=*tag_isya] →この能力を使えばこんなことに使えるぞ！ [endlink][r]
-
+[s]
 ;メロスは黒い風のように走った。[l][r]
 ;陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
 
 ;【 GOOD END 】[l][cm]
 
-[jump target=*start]
+;[jump target=*start]
 
 *tag_magasashita
 [bg storage=taiho.png time=500]
 
 [cm]
 
-魔が差した[r]
+魔が差した[l][r]
 
-[BAD END] [l][cm]
+【 BAD END 】[l][cm]
 
 [jump target=*start]
 
 
 *tag_isya
-[bg storage=isya.png time=500]
 
 [cm]
+[bg storage=isya.png time=500]
 
 透視能力を使って人間の体の以上を見つける凄腕の医者として数々の人を救った！[r]
 
-[GOOD END] [l][cm]
+【 GOOD END 】[l][cm]
 
 [jump target=*start]
 
 *tag_syunkanidou
+[cm]
 [bg storage=ninja_hashiru.png time=500]
 
-[cm]
+
 
 瞬間移動できることを使って唯一物理法則を破れる存在として一躍有名人になった。[r]
 
-[GOOD END] [l][cm]
+【 GOOD END 】[l][cm]
 
 [jump target=*start]
